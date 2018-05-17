@@ -8,36 +8,14 @@ body {
   color: #4C166E;
 }
 
-.h5 {
+h5 {
   color: #4C166E;
 }
 
-.Fabia {
-  margin-top: 50px;
+h6 {
+  color: black;
 }
 
-.Character {
-  margin-top: 50px;
-}
-
-.dropit {
-  margin-top: 50px;
-  color: #4C166E;
-
-}
-
-.menu {
-  color: #4C166E;
-}
-
-.btngrp {
-  margin-top: 50px;
-  color: #4C166E;
-}
-
-button {
-  color: #4C166E;
-}
 
 select {
   color: #4C166E;
@@ -49,6 +27,10 @@ select {
 
 .card img {
   margin-top: 10px;
+}
+
+.Tech {
+  color: SlateBlue;
 }
 
 /* .Projects img { display: block;float: left;} */
