@@ -30,7 +30,7 @@ class Mona extends Component {
             <h5>Fabia's Fabulous Fairytales</h5>
               <br></br>
             <h6>Front end technologies:</h6>
-            <p className="Tech">React, Javascript (JSX), Mobile Responsiveness, Ajax, Bootstrap-4, Node, Yarn, Heroku, .circleci, CSS, HTML, Git, Github, Mac CLI</p>
+          <p className="Tech">React, React Router, Javascript (JSX), Mobile Responsiveness, Ajax, Bootstrap-4, Node, Yarn, Heroku, .circleci, CSS, HTML, Git, Github, Mac CLI</p>
             <h6>Back end tech:</h6>
             <p className="Tech">Postgres, SQL, CORS, Express, Knex, Node, Heroku, .circleci, Git, Github, Mac CLI</p>
           </div>
