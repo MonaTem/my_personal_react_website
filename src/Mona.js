@@ -55,7 +55,7 @@ class Mona extends Component {
             </div>
           </div>
           <div className="row">
-            <div className="col-sm-4 offset-7">
+            <div className="col-sm-5 offset-6">
               <div className="card">
                 <a href="https://anthology-storytelling.herokuapp.com/"><img src="/Book of Dreams.jpg" height="150" width="150" className="Book-pic" alt="Book of Dreams"/></a>
                 <br></br>
