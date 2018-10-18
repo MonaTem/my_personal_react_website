@@ -55,14 +55,14 @@ class Mona extends Component {
             </div>
           </div>
           <div className="row">
-            <div className="col-sm-5 offset-6">
+            <div className="col-sm-5 offset-4">
               <div className="card">
                 <a href="https://anthology-storytelling.herokuapp.com/"><img src="/Book of Dreams.jpg" height="150" width="150" className="Book-pic" alt="Book of Dreams"/></a>
                 <br></br>
                 <h5>Storytelling Anthology</h5>
                 <br></br>
                 <h6>Technologies:</h6>
-                <p className="Tech">React, React Router, React Redux, Javascript (JSX), Mobile Responsiveness, Bootstrap-4, Node, Heroku, .circleci, CSS, HTML, Git, Github, Mac CLI</p>
+                <p className="Tech">React, React Router, React Redux, Javascript (JSX), Mobile Responsiveness, Bootstrap-4, Web Design, Sketch, Adobe XD, Balsamiq, Node, Heroku, .circleci, CSS, HTML, Git, Github, Mac CLI</p>
               </div>
             </div>
           </div>
