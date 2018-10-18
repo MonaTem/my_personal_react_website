@@ -54,6 +54,17 @@ class Mona extends Component {
             <p className="Tech">Javascript, Materialize CSS, Mobile Responsiveness, DOM manipulation, CSS, HTML, Git, Github, Mac CLI, node</p>
             </div>
           </div>
+          <div className="row">
+            <div className="col-sm-4">
+              <div className="card">
+                <a href="https://anthology-storytelling.herokuapp.com/"><img src="/Book of Dreams.jpg" height="150" width="150" className="Book-pic" alt="Book of Dreams"/></a>
+                <br></br>
+              <h5>Storytelling Anthology</h5>
+                <br></br>
+              <h6>Technologies:</h6>
+            <p className="Tech">React, React Router, React Redux, Javascript (JSX), Mobile Responsiveness, Bootstrap-4, Node,  Heroku, .circleci, CSS, HTML, Git, Github, Mac CLI</p>
+            </div>
+            </div>
         </div>
       </div>
     </div>);
