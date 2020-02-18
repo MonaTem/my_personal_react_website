@@ -15,7 +15,7 @@ class Mona extends Component {
       </header>
       <br></br>
       <h3 className="Resume">
-        <a href="https://resume.creddle.io/resume/djvfcfevvdt">Resume</a>
+        <a href="https://resume.creddle.io/resume/d376b4t26vm">Resume</a>
       </h3>
 
       <br></br>
